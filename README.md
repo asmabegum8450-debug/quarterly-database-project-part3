@@ -99,5 +99,4 @@ csv/
 
 Conclusion
 This project demonstrates the design and implementation of a complete database supporting tutoring operations at the Student Learning Center. It includes a normalized schema, sample data files, SQL queries, and reusable views for reporting.
-<img width="468" height="644" alt="image" src="https://github.com/user-attachments/assets/d67800fc-6cba-4ef9-b547-9dda9ce214e3" />
 
